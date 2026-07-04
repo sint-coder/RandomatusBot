@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://randomatusbot.com/src/image.png" alt="RandomatusBot" width="800"/>
+
 # RandomatusBot
 
 ### Бесплатный бот для запуска розыгрышей и создания собственного бота для розыгрышей
