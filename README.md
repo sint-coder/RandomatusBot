@@ -48,6 +48,15 @@
 
 <br>
 
+<p align="center">
+  <img src="create-contest-1.PNG" width="200" alt="..."/>
+  <img src="create-contest-2.PNG" width="200" alt="..."/>
+  <img src="create-contest-3.PNG" width="200" alt="..."/>
+  <img src="create-contest-4.PNG" width="200" alt="..."/>
+</p>
+
+<br>
+
 ## 💼 White Label: брендированные боты
 
 Для каждого пользователя доступна опция создания персонального бота для конкурсов под собственным брендом.
