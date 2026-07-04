@@ -49,10 +49,10 @@
 <br>
 
 <p align="center">
-  <img src="create-contest-1.PNG" width="200" alt="..."/>
-  <img src="create-contest-2.PNG" width="200" alt="..."/>
-  <img src="create-contest-3.PNG" width="200" alt="..."/>
-  <img src="create-contest-4.PNG" width="200" alt="..."/>
+  <img src="create-contest-1.PNG" width="200" alt="Создание конкурса. Шаг 1"/>
+  <img src="create-contest-2.PNG" width="200" alt="Создание конкурса. Шаг 2"/>
+  <img src="create-contest-3.PNG" width="200" alt="Создание конкурса. Шаг 3"/>
+  <img src="create-contest-4.PNG" width="200" alt="Создание конкурса. Шаг 4"/>
 </p>
 
 <br>
